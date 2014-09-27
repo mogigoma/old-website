@@ -1,0 +1,13 @@
+# Site settings
+title: Obstreperous
+email: mak@kolybabi.com
+description: Uniformed opinions, strongly held.
+baseurl: "/"
+blogurl: "/blog"
+url: "http://mogigoma.com"
+twitter_usernames: [mogigoma, mak_kolybabi]
+github_usernames:  [mogigoma]
+permalink: /blog/:year-:month-:day/:title
+
+# Build settings
+markdown: kramdown
