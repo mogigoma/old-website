@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obstreperous</title>
+    <description>Uniformed opinions, strongly held.</description>
+    <link>http://mogigoma.com/blog/</link>
+    <atom:link href="http://mogigoma.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 26 Sep 2014 10:10:11 -0500</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2014 10:10:11 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Today is not Yesterday</title>
+        <description>&lt;p&gt;[Context: I wrote this lying on the visiting room couch in Saint Boniface
+General Hospital’s Mother and Child Ward the day after the birth of my first
+child.]&lt;/p&gt;
+
+&lt;p&gt;Today is not yesterday: chronologically the change from one to the other is
+clearly incremental, but mentally the two are only tenuously connected.&lt;/p&gt;
+
+&lt;p&gt;When you find out you’re having a child, and aren’t terribly naive, you expect
+your day-to-day life will change. What I don’t believe you can prepare for is
+the emotional change that comes with being a parent. I have now met a tiny
+person whom, with the quietest sound or briefest flicker of an expression,
+produces the strongest emotions I have ever felt. And I’m someone that has a
+widely known reputation for being heartless. This emotional change is something
+that any parent can relate to and talk about, and is therefore not the topic of
+this post. What was more unexpected for me was the mental change that came with
+the birth of my child.&lt;/p&gt;
+
+&lt;p&gt;The first big mental shift I experienced happened when I had a really bad day,
+the last of a series. It was like a switch flipped in my head, which isn’t an
+uncommon feeling for me, but this was the biggest switch that had ever been
+flipped. I reacted to the experience with a set of decisions about how I would
+live my life from that point forward. I also decided that night to later take a
+road trip to Texas, so not all of those decisions were profound. Thinking about
+it now, the major theme of those decisions was: be deliberate.&lt;/p&gt;
+
+&lt;p&gt;It was like a life-spanning “Tell me how you really feel” session. Come next
+month, it will have been a decade since that really bad day.&lt;/p&gt;
+
+&lt;p&gt;For me, the second big mental shift was tonight, roughly thirty hours after
+River was born, while I was thinking about bringing her home. While we’ve been
+in the hospital, about forty-eight hours now, I’ve been telling Katie that we’re
+in a different world and that the normal rules of our life have no place in
+here. When we leave, it’s a new ‘real life’ that we return to. The imminence of
+that new life has caused me to think hard about how I want to live the next
+decade of my life. Lots of decisions were made, none of which I will be
+disclosing publicly or privately. Despite that lack of detail, I’d like to say
+that, broadly interpreted, this set of decisions have a rough theme: try.&lt;/p&gt;
+
+&lt;p&gt;Back in high school, my parents attended a parent-teacher interview, as they had
+a dozen times before, and asked how I was doing. They were told roughly the same
+thing as every time before: I was doing fine, was getting great marks, and
+wasn’t having any trouble with anything or anyone. But then they were told
+something new: that in spite of all that, my teacher just didn’t think that I
+was trying. They agreed. They talked to me about it. I agreed. Nothing changed.&lt;/p&gt;
+
+&lt;p&gt;From the time that Katie’s contractions started, I have actually been ‘trying’.
+Now that I’ve given this combination of my behaviour and mindset a name, I have
+looked back on my life and counted the number of times I feel I’ve actually
+‘tried’. I didn’t even need both hands.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Dec 2013 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2013-12-03/today_is_not_yesterday</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2013-12-03/today_is_not_yesterday</guid>
+        
+        <category>fatherhood</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Environment</title>
+        <description>&lt;div class=&quot;container&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;Overview&lt;/h2&gt;
+
+      &lt;p&gt;I was describing to a co-worker my habit of falling asleep on my
+      computer. To expand on my description of the physical setup of my room, I
+      decided to take pictures of it. The pictures aren't particularly good, but
+      they're far better than my description was. Also, I don't believe in
+      scaling down images. &lt;em&gt;Cope&lt;/em&gt;.&lt;/p&gt;
+
+      &lt;p&gt;The most striking feature of my room is the absence of a standard
+      bed. Though some would guess that I favour Japanese sleeping arrangements,
+      the truth is that I broke my futon. My matress will be replaced by a
+      proper bed when Katie and I move in together later this year.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;a href=&quot;/img/e3241040-50d6-11df-b4ac-00179aaefe84.jpg&quot;&gt;
+        &lt;img src=&quot;/img/e3241040-50d6-11df-b4ac-00179aaefe84.jpg&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;Computer&lt;/h2&gt;
+
+      &lt;p&gt;The most important thing in my room is my computer: &lt;abbr title=&quot;BRISBANE (n.): A perfectly reasonable explanation (Such as the one offered by a person with a gurgling cough which has nothing to do with the fact that they smoke fifty cigarettes a day.)&quot;&gt;Brisbane&lt;/abbr&gt;. Nowadays it runs &lt;a href=&quot;http://www.freebsd.org/&quot;&gt;FreeBSD 8-STABLE&lt;/a&gt;, prompted by an
+      unfortunate incident involving &lt;a href=&quot;http://www.gentoo.org/&quot;&gt;Gentoo
+      Linux&lt;/a&gt; and &lt;a href=&quot;http://en.wikipedia.org/wiki/Dd_%28Unix%29&quot;&gt;dd(1)&lt;/a&gt;. Brisbane
+      replaced my previous desktop, &lt;abbr title=&quot;SHENANDOAH (n.): The infinite smugness of one who knows they are entitled to a place in a nuclear bunker.&quot;&gt;Shenandoah&lt;/abbr&gt;, after an ill-advised experiment which caused Shenandoah to catch fire in
+      2006. Brisbane has a Dual Core AMD Opteron&amp;#8482; Processor 165 and 1.5
+      GiB of RAM.&lt;/p&gt;
+
+      &lt;p&gt;On top of my computer is a plush &lt;a href=&quot;http://en.wikipedia.org/wiki/Serial_Experiments_Lain&quot;&gt;Lain&lt;/a&gt; and a
+      plush squirrel. My mouse is a &lt;a href=&quot;http://www.logitech.com/en-ca/mice_pointers/trackballs/devices/166&quot;&gt;Logitech
+      TrackMan&amp;#174; Wheel&lt;/a&gt;, and my keyboard is a &lt;a href=&quot;http://www.daskeyboard.com/&quot;&gt;Das Keyboard&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;a href=&quot;/img/e3241046-50d6-11df-b4ac-00179aaefe84.jpg&quot;&gt;
+        &lt;img src=&quot;/img/e3241046-50d6-11df-b4ac-00179aaefe84.jpg&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;Comics, Wall Scrolls, and Trunk&lt;/h2&gt;
+
+      &lt;p&gt;In this picture, you can see my three wall scrolls from &lt;a href=&quot;http://en.wikipedia.org/wiki/Death_Note&quot;&gt;Death Note&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/Serial_Experiments_Lain&quot;&gt;Serial
+      Experiments Lain&lt;/a&gt;, and &lt;a href=&quot;http://en.wikipedia.org/wiki/Read_or_Die&quot;&gt;Read or Die&lt;/a&gt;. Below
+      them are the boxes containing my comics, which I started collecting again
+      in November, after more than twelve years. In the trunk are a variety of
+      personal items, notably my wedding ring and the medal I received upon
+      graduating university. Finally, we have my filing cabinet, in which I keep
+      ridiculously well-organized records.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;a href=&quot;/img/e3241042-50d6-11df-b4ac-00179aaefe84.jpg&quot;&gt;
+        &lt;img src=&quot;/img/e3241042-50d6-11df-b4ac-00179aaefe84.jpg&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;Bookshelf&lt;/h2&gt;
+
+      &lt;p&gt;If my house burned down, there are two things that I'd be hard-pressed
+      to replace. My multi-terabyte fileserver, &lt;abbr title=&quot;ELY (n.): The first, tiniest inkling you get that something, somewhere, has gone terribly wrong.&quot;&gt;Ely&lt;/abbr&gt;, would be impossible
+      to replace. When you have that much data, backing it up is a
+      &lt;em&gt;bitch&lt;/em&gt;. Less difficult, but more costly to replace would be my
+      collection of books, and trade paperbacks of comics. You may notice that I
+      am fast running out of space. In truth, my books outgrew my bookshelf over
+      a year ago, and were my friends to return all they've borrowed, I'd be in
+      trouble.&lt;/p&gt;
+
+      &lt;p&gt;The toolbox is filled with cabling, screwdrivers, and lockpicks.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;a href=&quot;/img/e3241044-50d6-11df-b4ac-00179aaefe84.jpg&quot;&gt;
+        &lt;img src=&quot;/img/e3241044-50d6-11df-b4ac-00179aaefe84.jpg&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;Closet&lt;/h2&gt;
+
+      &lt;p&gt;My closet contains mostly dress shirts, and two suits: one for Brad's
+      wedding, and one for mine. It also once contained Dave, but that's another
+      story.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;a href=&quot;/img/e3241043-50d6-11df-b4ac-00179aaefe84.jpg&quot;&gt;
+        &lt;img src=&quot;/img/e3241043-50d6-11df-b4ac-00179aaefe84.jpg&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;Degree and Einstein&lt;/h2&gt;
+
+      &lt;p&gt;Here you can see a random framed picture of a squirrel. Why? Because
+      squirrels are awesome, that's why. Above that is my long-awaited degree:
+      Bachelor of Science &amp;mdash; Major, Computer Science with Co-operative
+      Option, with Distinction. In the center you can see the Einstein poster
+      I've had since I was nine, and the two action figures that Katie brought
+      back from her vacations: &lt;a href=&quot;http://www.royalbaconsociety.com/store/viewProduct.php?ProductID=82&quot;&gt;Saint
+      Anthony&lt;/a&gt; (patron saint of bacon), and &lt;a href=&quot;http://www.thinkgeek.com/geektoys/cubegoodies/71a4/&quot;&gt;Einstein&lt;/a&gt;
+      (with equation-solving action). On the right is my dry-mounted poster of
+      the &lt;a href=&quot;http://www.cpepweb.org/cpep_sm_large.html&quot;&gt;elementary
+      particles&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;a href=&quot;/img/e3241041-50d6-11df-b4ac-00179aaefe84.jpg&quot;&gt;
+        &lt;img src=&quot;/img/e3241041-50d6-11df-b4ac-00179aaefe84.jpg&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;Posters&lt;/h2&gt;
+
+      &lt;p&gt;There are only two more features of note in my room. The first is my
+      framed &lt;a href=&quot;http://en.wikipedia.org/wiki/Periodic_table&quot;&gt;periodic
+      table&lt;/a&gt;, which I've had since I was seven or eight. The second is a
+      dry-mounted map of the &lt;a href=&quot;http://www.thinkgeek.com/homeoffice/posters/6b15/&quot;&gt;electromagnetic
+      spectrum&lt;/a&gt;.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;a href=&quot;/img/e3241045-50d6-11df-b4ac-00179aaefe84.jpg&quot;&gt;
+        &lt;img src=&quot;/img/e3241045-50d6-11df-b4ac-00179aaefe84.jpg&quot; /&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;span6&quot;&gt;
+      &lt;h2&gt;In Closing&lt;/h2&gt;
+
+      &lt;p&gt;So there you have it, that's my room for the moment. A few months from
+      now, I'll be moving out of this small space into a hopefully less-small
+      house.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 26 Apr 2010 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2010-04-26/my_environment</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2010-04-26/my_environment</guid>
+        
+        <category>environment</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gymming</title>
+        <description>&lt;p&gt;Dave and I went to the gym tonight, an event that we intend to repeat. Upon
+reaching the changing rooms:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;There sure were a lot of women out there.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;You know what's awesome? I'm engaged!&lt;/dd&gt;
+  &lt;dt&gt;Dave&lt;/dt&gt;&lt;dd&gt;And it doesn't even seem like you're throwing your life away!&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;I'm going to file that one under 'Ringing Endorsements'.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Mon, 05 May 2008 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2008-05-05/gymming</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2008-05-05/gymming</guid>
+        
+        <category>dave</category>
+        
+        <category>katie</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>New Justification</title>
+        <description>&lt;p&gt;Being engaged has many unexpected perks in the realm of arguing:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;And &lt;em&gt;why&lt;/em&gt; exactly should I have to put up with this?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;&quot;Yes.&quot;&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;As in, you said.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Fri, 28 Mar 2008 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2008-03-28/new_justification</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2008-03-28/new_justification</guid>
+        
+        <category>katie</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Learning from your Mistakes</title>
+        <description>&lt;p&gt;This week, I saw an individual that I haven’t seen in six years. I have no idea
+who this person is, what his name is, or anything about him except what I saw
+years earlier. Upon seeing him as I came down a flight of stairs in the
+Engineering Complex at the university, I immediately froze and gripped the
+railing tightly for fear of pointing and laughing uncontrollably. What could
+prompt such a reaction? My dog learns quicker than this guy.&lt;/p&gt;
+
+&lt;p&gt;In my first year of university, I had Calculus every Monday, Wednesday, and
+Friday. It was a class of at least a two hundred people tightly packed into a
+room with two sets of double doors. Ten minutes before the end of each class,
+this one guy would get up and leave through the doors at back of the room, where
+I habitually sit. Every day, he’d &lt;em&gt;fucking plow&lt;/em&gt; into the right-hand
+door, which was always locked. He’d then take a moment to recover himself, and
+then leave through the left-hand door, which was always unlocked. Courses will
+run for about thirteen weeks, and to the best of my recollection he did this
+every class, meaning roughly &lt;em&gt;forty&lt;/em&gt; times.&lt;/p&gt;
+
+&lt;p&gt;I’m amazed that guy is still alive.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 06 Mar 2008 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2008-03-06/learning_from_your_mistakes</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2008-03-06/learning_from_your_mistakes</guid>
+        
+        <category>university</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>All Interaction is Negotiation</title>
+        <description>&lt;p&gt;In my Operating Systems 2 course, we have an assignment that was supposed to be
+due today. Although it’s not overly crazy (implementing priority donation on
+locks, correcting wakeup behaviour of synchronization primitives, implementing
+the BSD 4.4 scheduler, and removing all instances of busy-waiting from the
+kernel), none of us are anywhere near done. My partner and I have worked on it
+nightly since last Sunday, and I dedicated from 0800h Thursday until 1630h today
+on it (stayed overnight in the computer lab), we’re still nowhere near finished.&lt;/p&gt;
+
+&lt;p&gt;Today, the professor (Rasit) stopped by the lab to ask us how we were doing.&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Rasit&lt;/dt&gt;&lt;dd&gt;When did I say this assignment was due?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Today, but you never gave a specific time.&lt;/dd&gt;
+  &lt;dt&gt;Rasit&lt;/dt&gt;&lt;dd&gt;And how far along are you?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Nowhere far enough to finish without an extension.&lt;/dd&gt;
+  &lt;dt&gt;Rasit&lt;/dt&gt;&lt;dd&gt;How much time would you need?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;I'm thinking March would work.&lt;/dd&gt;
+  &lt;dt&gt;Rasit&lt;/dt&gt;&lt;dd&gt;&lt;em&gt;*laughs*&lt;/em&gt; How about Monday?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Now you're getting it! I say March, you say Monday, eventually we meet in the middle and you make it due in late February.&lt;/dd&gt;
+  &lt;dt&gt;Rasit&lt;/dt&gt;&lt;dd&gt;Ah, but you see in this case &lt;em&gt;I&lt;/em&gt; am not the one that needs to negotiate.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Good point.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Fri, 08 Feb 2008 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2008-02-08/all_interaction_is_negotiation</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2008-02-08/all_interaction_is_negotiation</guid>
+        
+        <category>university</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Managing Expectations</title>
+        <description>&lt;p&gt;I just got my hair cut, for the first time in six months. Previously, I’d shaved
+my head bald a few times. So today, I got out the clippers and enlisted my
+father (Pierre) to help out.&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Pierre&lt;/dt&gt;&lt;dd&gt;You realize that this is going to look bad, like your Dad did it.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;That's okay. I've carefully established, by shaving my head bald a few times, that Katie won't leave me no matter how dumb my hair looks.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Sun, 27 Jan 2008 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2008-01-27/managing_expectations</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2008-01-27/managing_expectations</guid>
+        
+        <category>pierre</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Responsibility</title>
+        <description>&lt;p&gt;Should I ever have kids, I feel that this should be documented:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You should never be responsible for a human life.” –Katie&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sat, 29 Dec 2007 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2007-12-29/responsibility</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2007-12-29/responsibility</guid>
+        
+        <category>katie</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Moral Obligation</title>
+        <description>&lt;p&gt;At work today, Ron and I got to have a heart-to-heart:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Sorry, I say some pretty random shit. Brad's girlfriend says that I have no filter between my brain and my mouth. I maintain that I have a moral obligation to state whatever comes into my head.&lt;/dd&gt;
+  &lt;dt&gt;Ron&lt;/dt&gt;&lt;dd&gt;I'm pretty sure that's some kind of disability.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Nope. It's a moral obligation, I assure you.&lt;/dd&gt;
+  &lt;dt&gt;Ron&lt;/dt&gt;&lt;dd&gt;No, really, it has a &lt;a href=&quot;http://en.wikipedia.org/wiki/Tourette_syndrome&quot;&gt;name&lt;/a&gt; even.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Sat, 29 Dec 2007 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2007-12-29/moral_obligation</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2007-12-29/moral_obligation</guid>
+        
+        <category>ron</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>An Exercise in Madness</title>
+        <description>&lt;p&gt;Most of the tenets of Extreme Programming seem most useful on small-ish
+projects. Today I discovered that, despite my preference for working alone, pair
+programming is undeniably useful, even on tiny projects. What qualifies as a
+tiny project? I’m going to use it in the sense of one to two pages of code. This
+story begins with an application called Foundstone.&lt;/p&gt;
+
+&lt;p&gt;The Manitoba Government has a habit of buying large, proprietary software suites
+from big-name vendors. One such program is a vulnerability scanner, ticketing,
+and reporting suite from McAfee called Foundstone. As far as I’m concerned,
+Foundstone is poorly made. Since I’m an open source geek, I am admittedly
+biased. Couple that bias with the typical programmer’s ego, and you can probably
+see where the next bit of this post is going.&lt;/p&gt;
+
+&lt;p&gt;Foundstone is an all-in-one, turnkey, 1U ‘pizza box’ (as Gary would say). This
+box is running a &lt;em&gt;highly&lt;/em&gt; modified build of Windows, to the point that the
+top-level of the filesystem represents the &lt;a href=&quot;https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard&quot;&gt;FSH&lt;/a&gt; as opposed to a modern
+Windows machine. It runs on IIS and MSSQL, and uses PHP and GD to generate
+reports and provide most of the web interface. All-in-all, no complaints
+there. In fact, I am suitably impressed with their filesystem layout.&lt;/p&gt;
+
+&lt;p&gt;Sadly, there’s more to Foundstone, and that’s where I start getting annoyed, and
+&lt;em&gt;fast&lt;/em&gt;. One of the things that I’d been tasked with researching is automating
+the reporting. No matter what job I get SBGH, IBM, Seccuris it always seems to
+end up with me automating some report or another. After a few weeks of poking
+about, I managed to get reports being automatically generated and emailed. These
+reports include the details of all vulnerabilities discovered for hosts within
+certain administrative boundaries. The only reason it took any appreciable
+amount of time to generate was an arbitrary limit on the government’s email
+servers stating that ZIP files could only contain a certain number of
+files. They set it to something like 100, and that wasn’t &lt;em&gt;nearly&lt;/em&gt; enough for
+these reports. Oh, no, they needed that number jacked up ludicrously high to
+accommodate for the method Foundstone uses for presenting scans. Whether it’s an
+HTML or a PDF report you ask for, it presents you with a ZIP file. This ZIP file
+will contain a directory named with the unique number (in today’s case, 20) that
+represents the automatically incremented primary key for the scan, taken from
+the MSSQL database. Once you go down another level into the HTML or PDF folder,
+depending on the type of scan you generated, you’ll find the file named
+index.{html,pdf}. While quirky, so far, so good. And here’s where it all breaks
+down. The report is always broken down into innumerable small files listing
+every subject that was to be included in the report. This makes sense for CSV
+files, which are also an option, but having a slew of tiny cross-linked PDF
+files is the sort of thing we need to “resurrect the punishment of stoning for”
+(to quote Kyle).&lt;/p&gt;
+
+&lt;p&gt;Adding insult to injury, I noticed that in the report that we wanted to send to
+the highest-up brass, each graph across two of its sections are ~750x16 pixels,
+which is ridiculously narrow. I spent a day trying to find out if I had screwed
+up the settings somewhere. Then I called for help:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Me&lt;/dt&gt;&lt;dd&gt;&lt;em&gt;*relays the last two sentences*&lt;/em&gt;&lt;/dd&gt;
+  &lt;dt&gt;McAfee&lt;/dt&gt;&lt;dd&gt;It's a known issue, which results from an error in the XML file used to generate the report.&lt;/dd&gt;
+  &lt;dt&gt;Me&lt;/dt&gt;&lt;dd&gt;Any idea when that'll be fixed?&lt;/dd&gt;
+  &lt;dt&gt;McAfee&lt;/dt&gt;&lt;dd&gt;In the next patch, which has no ETA, but I would expect it to come out sometime, hopefully early, next year.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;This answer from Technical Support made perfect sense to me, since it
+characterized the odd behaviour of this issue. What I’ve yet to mention is that,
+should one ask Foundstone for a live representation of the graphs generated for
+the report, it would do so instantly and perfectly. “An error in an XML file,” I
+thought, “that’s the sort of thing that I could fix in two seconds!” Tempting
+fate is a hobby of mine. I can often be found saying either “What’s the worst
+that could happen?” or “There’s no &lt;em&gt;possible&lt;/em&gt; way that this could go wrong!”
+and then standing around waiting for everything to go to pot.&lt;/p&gt;
+
+&lt;p&gt;Yesterday, Ron and I were asked to develop a workaround for this reporting
+issue. It was believed that the easiest solution would be to generate our own
+report by direct manipulation of the MSSQL back-end. Neither Ron nor I have any
+appreciable experience with MSSQL, but we dove in, regardless. As we laboured to
+decipher the meaning of the tables, and suppressed our revulsion toward their
+organization (what’s the difference between an asset and a host?) and backup
+strategy (having a dozen tables named like ‘Hosts’ through ‘Hosts_12’), we found
+ourselves unable to find the correct arcane combination of SQL commands to
+produce numbers that matched those shown on the known-good graphs. We attempted
+to log all transactions to the database, but its extensive use of stored
+procedures proved to be more than we were willing to reverse engineer.&lt;/p&gt;
+
+&lt;p&gt;Our next approach was to look at the PHP code to see if we could simply read the
+SQL queries that are often contained within. The McAfee developers thought it
+necessary to obfuscate all their code by running it through ionCube. This is the
+point at which I started swearing. Frequently. Shit was broken, and the
+responsible party saw fit to prevent others from fixing it. Few things annoy me,
+or I’d guess any other programmer, like that. This is one major reason why I
+favour open source.&lt;/p&gt;
+
+&lt;p&gt;Failing the PHP approach, we thought back to what Tech Support had said: there
+must be a simple plain text XML file that we can edit to solve all our problems!
+I’d thought all youthful, naive optimism had left me. I was wrong. Long story
+short: XML files exist, but the one with the name of the report didn’t appear to
+have any control over image generation. Bugger. Drop curtain.&lt;/p&gt;
+
+&lt;p&gt;New scene, Noon today. Ron and I once again sitting at my desk, hacking away at
+our SQL query from the day before. Interestingly, our numbers, though still off
+by a factor of ten, made even less sense when compared to the reference graphs.
+It was then we gave up on solving our problem the Right Way, and embraced the
+madness.&lt;/p&gt;
+
+&lt;p&gt;Our first idea, generating the report automatically and having it emailed to our
+manual-labour-grunt-zombie (read: the next co-op student to come around that
+isn’t me). Upon receiving it, our victim would then log into Foundstone, and
+request the live representation of the data to be generated. They would then
+download and rename each image that was missing from the report. As a
+penultimate step, the victim would then unzip the file, integrate the graphs
+into the (several levels deep) directory structure, and zip it up again.
+Finally, they would email the report out to the people that &lt;em&gt;actually
+matter&lt;/em&gt;. Although we were amused by this plan, so long as we weren’t the ones
+going through these steps, it just didn’t have that satisfyingly inelegant
+flavour to it.&lt;/p&gt;
+
+&lt;p&gt;Our next few ideas involved everything from writing a series of chained
+Greasemonkey scripts, to writing an entire Firefox extension from scratch. Then,
+we came up with our Final Solution: manually (read: use Perl and LWP) run all
+the HTTP requests ourselves. Since the Web interface uses cookies as a session
+token and doesn’t bother with SSL (why on Earth would an enterprise-grade
+security suite &lt;em&gt;not&lt;/em&gt; conduct all it’s activity in plain text?) it should be
+possible.&lt;/p&gt;
+
+&lt;p&gt;For the rest of the day, Ron and I programmed a two page Perl script that logs
+into Foundstone, presses all the right buttons, rips out all the resulting
+images, downloads the report’s ZIP, and overwrites the bad graphs. I
+appropriately named our script ‘wrongness.pl’. There’s still more to do on our
+script, since they also want the report to be emailed out on completion, and a
+few other things. The important things that this entire experience taught me
+were: Ron is awesome (despite being a Vegan, Slackware user, and VIM lover), and
+pair programming works no matter what the project is. I ‘drove’ all day, which is
+to say that I was the one &lt;a href=&quot;/img/windmilling.gif&quot;&gt;windmilling&lt;/a&gt; at the keyboard, while he ‘navigated’.
+This sounds like a waste of manpower, but I assure you it isn’t. While I was
+typing, he was watching that I didn’t make any spelling or logic errors. Ron was
+also thinking ahead on how to solve the next issue, while I was busy
+implementing our solution to the current one. Any time we disagreed on an
+implementation issue, we’d simply argue until we came to a resolution, which
+usually took about a minute.&lt;/p&gt;
+
+&lt;p&gt;The most enjoyable part of this pair programming experience, other than creating
+a dirty solution to an ugly problem that works perfectly, was the chance to
+spend an entire day talking, arguing, and insulting someone. Had I been told
+that I could spend that much time ranting and questioning someone’s breeding,
+upbringing, sexual habits, hygiene, intelligence, attractiveness, creativity,
+choice of editor, and just general life choices while still being productive,
+I’d never have believed it. Admittedly, the amount of code we produced was
+meager, but it uses libraries we had no experience with (LWP and Archive::Zip)
+in a language that we rarely use. The most important thing, though, is that I
+have &lt;em&gt;never&lt;/em&gt; produced Perl code that nice. I look forward to pair programming as
+much as possible in future, providing my partner isn’t useless. That’d just be
+no fun! Yes, I feel the need to counterbalance my optimism with the bitter,
+jaded cynicism of experience.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 20 Dec 2007 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2007-12-20/an_exercise_in_madness</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2007-12-20/an_exercise_in_madness</guid>
+        
+        <category>ron</category>
+        
+        <category>work</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Useful Skill</title>
+        <description>&lt;p&gt;Katie likes things to be carefully planned, where I’m a fan of improvising:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Now, repeat after me: there is no plan.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;There &lt;em&gt;is&lt;/em&gt; a plan.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;&lt;em&gt;*pats Katie on the head*&lt;/em&gt; How cute!&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Almost four years in, and you can still delude yourself. That'll be a useful skill later on.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2007 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2007-11-22/useful-skill</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2007-11-22/useful-skill</guid>
+        
+        <category>katie</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why We Can't be in Marketing</title>
+        <description>&lt;p&gt;While discussing something confusing:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Okay, now I have a headache.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;What can I do to help?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Sex.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Why sex?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Because it apparently cures headaches.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Then why do women use it as an excuse to avoid sex?&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Not sure, but Niko told me that sex cures headaches, so it must be true. Niko is the third most reliable source of information in the world.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Tylenol should make condoms.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Like those flavoured ones?&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Yeah&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Tylenol-coated condoms, the power of two headache-relief medicines at
+once. Use only as instructed. Keep out of reach of children. Should
+accidental contact with eye occur, flush with water immediately.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Oct 2005 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2005-10-20/why_we_can_never_be_in_marketing</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2005-10-20/why_we_can_never_be_in_marketing</guid>
+        
+        <category>katie</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Relationships</title>
+        <description>&lt;p&gt;While discussing relationships, and how people change over time:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;It's hard to say exactly what a person will be like a few years down the road. I mean, take me for example, two years ago I wasn't anywhere near this much of an ass.&lt;/dd&gt;
+  &lt;dt&gt;Brad&lt;/dt&gt;&lt;dd&gt;Yeah, and in a few more years you'll be a downright &lt;em&gt;prick&lt;/em&gt;.&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+        <pubDate>Sat, 08 Oct 2005 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2005-10-08/relationships</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2005-10-08/relationships</guid>
+        
+        <category>brad</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Defining Moment</title>
+        <description>&lt;p&gt;While discussing my frustration in trying to get a job I had recently left to
+pay me the money I was owed:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Pierre&lt;/dt&gt;&lt;dd&gt;You know, Mak, there's only so far in life you can go while being nice.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;I know, but it's nowhere near as far as I'd hoped.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;I realized after this that while it was important to be nice by default, being
+intenionally impolite is very useful.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 02 Jun 2005 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2005-06-02/defining_moment</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2005-06-02/defining_moment</guid>
+        
+        <category>life</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why I Shouldn't be Allowed to Talk to Brad</title>
+        <description>&lt;p&gt;I was talking to Brad on MSN, and I randomly started by saying:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;(20:12:52)  Mak: *dances*
+(20:13:24) Brad: *prances*
+(20:13:30)  Mak: *jigs*.
+(20:13:42) Brad: *jives*
+(20:15:40)  Mak: *boogies*
+(20:16:09) Brad: *shuffles*
+(20:16:18)  Mak: *jitterbugs*
+(20:17:21) Brad: *swings*
+(20:17:46)  Mak: *stayin' alive*
+(20:18:02) Brad: *Batman*
+(20:18:09)  Mak: *moonwalk*
+(20:18:30)  Mak: (BTW, saw Brennan Kyle at Sal's last night. Brennan is learning to Moon-Walk)
+(20:18:52) Brad: *breakdances* (Cool.)
+(20:19:05)  Mak: *running man*
+(20:19:20) Brad: *lawnmower*
+(20:20:01)  Mak: *shopping*
+(20:22:10) Brad: *tap* (we really should stop this, before it gets silly :P)
+(20:22:41)  Mak: *riverdance* (I think that point is long past)
+(20:23:27) Brad: *cabaret* (Oh I think it has a way to go yet)
+(20:23:49)  Mak: *ballroom* (Doesn't it always, with us?)
+(20:24:41) Brad: *waltz* (sadly yes!)
+(20:25:01)  Mak: *line*
+(20:25:32) Brad: *interpretive*
+(20:25:41)  Mak: *square*
+(20:26:07) Brad: *tango*
+(20:26:18)  Mak: *country*
+(20:28:54) Brad: *rave*
+(20:29:02)  Mak: *east coast swing*
+(20:30:54) Brad: *grooving* (and we used swing!)
+(20:31:49)  Mak: *west coast swing* (It's not swing dancing, it's some weird specific country style)
+(20:33:07) Brad: *two-step*
+(20:33:32)  Mak: *liquid* (Nice one!)
+(20:34:12) Brad: *salsa* (Thank you Niko's mom)
+(20:34:35)  Mak: *worm*
+(20:34:57) Brad: *robot*
+(20:35:21)  Mak: *Brady Bunch Thumb Dance*
+(20:35:31) Brad: *happy dance*
+(20:35:59)  Mak: *un-happy dance* (Damned you! I was going to use that next.)
+(20:36:52) Brad: *lock and pop* (which is why I had to)
+(20:37:06)  Mak: *pole* (Thank you, Katie!)
+(20:37:19) Brad: *strip*
+(20:37:23)  Mak: *grind*
+(20:37:33) Brad: *dirty*
+(20:38:23)  Mak: *that guy from the beer commercial where they say &quot;What the hell is this idiot doing?&quot;* (You know, we think too much alike, I was just about to use that one, too.)
+(20:39:27) Brad: *drunk* (it's sad but true)
+(20:40:04)  Mak: *Twitch's &quot;Jump Around&quot;*
+(20:41:11) Brad: *Paquet's arm extended and slightly moving fist*
+(20:41:25)  Mak: *Scottish Sword Dancing*
+(20:41:42) Brad: (everybody do the) *monkey*
+(20:42:16)  Mak: *Giesburg's Madly-Flailing &quot;Liquid&quot; in the Movie Theatre*
+(20:43:25) Brad: *highland fling*
+(20:43:49)  Mak: *Butterfly Wedding Dance* (I'll have to take your word on the highland fling)
+(20:45:53) Brad: *Russian leg flingy dance* (I think it's different from sword dancing)
+(20:46:35)  Mak: *Ukrainian leg flingy dance* (I know there's a Ukrainian one, too!)
+(20:48:17) Brad: *Aboriginal flailing dance* (what my dad thinks my dancing looks like)
+(20:48:49)  Mak: *bops* (Wow, goodbye cultural sensitivity)
+(20:49:39) Brad: *slides*
+(20:50:03)  Mak: *ballet*
+(20:51:34) Brad: *snoopy* (I think we're hitting a new low)
+(20:52:08)  Mak: *Carlton* (That's worth something!)
+(20:53:11) Brad: *zoot suit boogie*
+(20:54:06)  Mak: *Triple-Two*
+(20:54:57) Brad: *Stewie's &quot;sexy parties&quot; dance*
+(20:56:02)  Mak: *Dance Dance Revolution* (Quote from the Dance at Ai-Kon: &quot;How am I supposed to dance to this? There aren't any arrows on the ground!&quot;)
+(20:58:06) Brad: ( :| ) *belly*
+(20:58:16)  Mak: *Ratbert's &quot;I'm Naked!&quot; Dance* (Once we hit 21:12:52 by my clock, we'll have been at this for an hour. That's something worth striving for!)
+(20:59:37) Brad: *lambada* (cool!)
+(21:00:46)  Mak: *La Coucaracha* (Cockroach dance! I'll tell you when my clock hits an hour. Hooray for timestamps!)
+(21:01:40) Brad: *YMCA* (We can do it!)
+(21:02:04)  Mak: *Macarena* (Of course we can. It's us and it's *stupid*!)
+(21:02:50) Brad: *that chicken dance*
+(21:02:52)  Mak: *Limbo* (Like a green snake up a sugar cane tree, man!)
+(21:03:23) Brad: *conga line*
+(21:04:24)  Mak: *&quot;You and me baby ain't nothin' but mammals&quot; music-video-ass-tappin' dance*
+(21:05:55) Brad: *the slow turning in a circle dance that is, slow dancing*
+(21:06:25)  Mak: *Fish-Slapping Dance*
+(21:07:08) Brad: *bunny hop*
+(21:08:02)  Mak: *Wesley Wyndam-Pryce's Dance on that episode of Angel* (It's on my DVDs. It's how I would dance if I ever did. *shudder*)
+(21:09:49) Brad: *rubber ducky* (Jenn mentioned it one day. It's more than just a song!)
+(21:11:13)  Mak: *That stupid dance that I have the image of a girl w/ long blond hair punching straight up w/ alternating hands as she jumps on alternating feet and shakes her head back and forth* (Read: Bad 80's dancing)
+(21:12:58) Brad: *Time Warp*
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Mission completed.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Oct 2004 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2004-10-08/why_i_shouldnt_be_allowed_to_talk_to_brad</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2004-10-08/why_i_shouldnt_be_allowed_to_talk_to_brad</guid>
+        
+        <category>brad</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Emotional Attachments and Commitments</title>
+        <description>&lt;p&gt;When I previously left the job to which I have just returned, I was accused of
+something that bothered me greatly: lack of caring about a project. The project
+in question was a database of vascular patients for a practice at a local
+hospital. I had created the database according to specifications. I had designed
+all the necessary forms, both paper and electronic, for data collection. In fact
+I had even designed the system to allow data entry on a Palm Pilot so that the
+surgeons could update and review information on current patients while they were
+doing rounds. I even worked thirteen hours straight one night to finish writing
+a program that would calculate, graph, and store everything about this one type
+of research they were doing. One day, I was offered a job by another surgical
+department (nephrology) because one aspect of the database that I was working on
+pertained to their type of surgeries as well. I considered the job and was eager
+to take it, especially since my vascular contract was giving me minimal hours.&lt;/p&gt;
+
+&lt;p&gt;A few days later I came in to find that I would no longer be working on the
+nephrology section of the database. That section was to be unlinked from the
+main database. They said that the nephrology department would be taking care of
+that information from now on. I was to export all the data to a raw format
+(Microsoft Excel) so that it could be given to them. That really bugged me,
+since I had worked very hard to clean up all the data and configure the database
+to properly handle it and maintain its integrity for future additions. Not only
+that, I had spent &lt;em&gt;months&lt;/em&gt; programming the scripts that would perform the
+calculations. And since no one knew how the calculations were supposed to be
+done, I even had to wade through medical literature to understand it. It needed
+to be completely rewritten upwards of eight times in two different languages
+(Perl and VBA) because we kept getting new information on the calculations that
+completely contradicted the previous literature.&lt;/p&gt;
+
+&lt;p&gt;Removing the data from the database into an inert format? Fine, I can handle
+that. Hours of work there, but no big deal. But the next thing they did went too
+far. They told me that if I was to take the job with the nephrology department,
+that “Since they disagreed with the conduct of the other department in their
+acquisition of the database, if I was to accept their offer of employment, they
+would have no choice but to terminate my contract.”  That pissed me off, you can
+be sure. I get offered work, but the current job threatens to fire me if try to
+take both. If I were the same person then that I am now, I would have quit on
+the spot and taken the other job. But I wasn’t, and so I stayed. My only
+consolation was that at least all of my hard work and months of programming
+would still be benefiting people in the diagnosis and treatment of renal
+patients. But then it hit me: the scripts were in the database, and I had
+exported the data to another format for transfer. How the heck were they going
+to use my scripts if they weren’t being given the database that had them in it?
+When I asked about it, I was told that they weren’t being given to the other
+department. Since they had paid me to work on programming the scripts, it was
+their property. And since they disagreed with the other department, they weren’t
+giving them my scripts. Therefore, nothing I had done was going to help people
+ever again. My employers were keeping scripts they weren’t going to use out of
+spite, and at the expense of people.&lt;/p&gt;
+
+&lt;p&gt;As for my return to work, I was ecstatic at first. When they called me back, I
+was still lying in bed, and in that instant ideas started flooding to me. I had
+fixes to half-a-dozen problems that had plagued their system for two-and-a-half
+years. I even had an answer to a major legal problem they were having with
+regards to the database and patient confidentiality. The moment I got into work,
+I remembered why I had left. By the end of the first day, they had summarily
+dismissed my ideas, reminded me that they thought this project was largely a
+waste of time, and told me that they were short on money, so they weren’t sure
+how often they’d be able to have me come in.&lt;/p&gt;
+
+&lt;p&gt;On a far happier and less whiny and ranting note, I was talking to Katie last
+night and she started me thinking about something. She mentioned that she had
+the feminine quality of being emotionally attached to certain pieces of
+jewelery. This led me to wonder what objects, if any I’m attached to. I thought
+about it for a while, and what it came down to is that there’s not really any
+objects I’m attached to. I’m attached to people and ideas, nothing more. I mean
+sure, my necklace, guitar, signet ring, and a couple of stuffed squirrels and a
+lemur are important to me but if I were to lose them I’d survive without any
+problem. Then I realized something that does matter to me: books. Not just my
+books though, any copy of specific books. Thinking this through, I realized that
+it wasn’t the books themselves, but the words in the books, the books were just
+easier ways of thinking about them. I’ve spent a good day thinking about that,
+now, and I think I have an answer. Most people I know that like books are very
+visual people. Take Brad for instance: when he reads a book, he gets immersed in
+it to the exclusion of all else. He visualizes everything he reads about and can
+actually see it in detail. On the other hand, when I read a book, I don’t see a
+damned thing. In fact, most of the descriptions bore the living crap out of me,
+so I skim them making sure that there’s nothing critical to the storyline
+contained in them. What I never skip, though, is the dialogue. However this only
+applies to novels. Whenever I’m reading something technical, such as a computer
+programming text, I read every word. When I realized this, I knew what I’m
+attached to: talking. I’m a talker, in case you haven’t noticed. This blog entry
+should be long enough to support that claim. The thing is, it’s not just actual
+talking that I care about. It’s written, too. Anything that takes the form of a
+dialogue between two people, be it talking, chatting on an instant messaging
+service, or reading the words of an author to their readers, it’s all the
+same. I don’t care about the books, but I do feel attached to them, so that
+whenever I need I can pick one up and have a (admittedly one-sided) conversation
+with it.&lt;/p&gt;
+
+&lt;p&gt;Well, I need to get up early tomorrow so that I can see Munch off to school. And
+go to work, yay.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Jun 2004 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2004-06-01/emotional_attachments_and_commitments</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2004-06-01/emotional_attachments_and_commitments</guid>
+        
+        <category>work</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Improvised Story</title>
+        <description>&lt;p&gt;Three weeks after we met, and two weeks after we’d been dating, Katie and I were
+on chatting on MSN when she randomly said in the middle of our conversation:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Once upon a time&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;There was a duck-billed platypus named Weevil.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;One day Weevil and his squirrel friend Meril woke up to see some smoke in the distant North.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;&quot;Oh my Gaia!&quot;, said Weevil. &quot;Someone seems to have lit the Ki no Shushochi on fire!&quot;&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Meril simply clicked his tongue a few times, and went back to eating the ripe, plump berries at the side of the lake.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Weevil gave Meril a disapproving look. &quot;Well, I suppose I'll go see if there's anything I can do, since you appear to be unconcerned.&quot; And with that, Weevil began to walk Northward.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;With a mouth full of berries, Meril turned his head and blinked as Weevil walked away. He rolled his eyes, swallowing what he had stuffed in his mouth, and quickly jumped to his feet to catch up to Weevil. &quot;What is with this Key thing?&quot; Meril asked curiously, not understanding what Weevil knew.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Weevil just shook his head as he continued walking. &quot;The Ki no Shushochi is the great big douglas fir tree that never loses its needles, no matter how cold it gets. It's the one that the old Albino Squirrel, Skippy, lives in.&quot; he explained.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;&quot;Skippy?&quot; Meril squeeked, his nose twitching from side to side as some ash had fallen onto it. He shrugged it off. &quot;Oooo! I heard about this Ski... Ski... Skiiiiaaaaapppaaachooo!&quot; Meril sneezed, the force flinging him back into a bush.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Weevil ducked under a log to avoid being hit by the sizable gob of berry-coloured mucus that had shot like an arrow straight for him. &quot;I should hope you would have heard of him. He just happens to be the oldest animal in the forest. He says he remembers a time before there &lt;em&gt;was&lt;/em&gt; any fire! I hope he's not still mad about the thing with you and his great-great-great-great-granddaughter, though.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;A rustling began in the bush as Meril stuck his face out of the bush and quickly came out, shaking dirt off of his body. &quot;Who was that now?&quot; Meril thought, thinking back to that time. Meril's eyes widened, &quot;Oh, do you meant that sunlit brown-furred black-eyed goddess of a squirrel who... ooooo!&quot; Meril's cheeks turned red as he remembered that day, and his tail flicked up.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Weevil emerged from beneath the log with a reproving glare. &quot;No, not her, I meant her sister. You remember? The one you ditched the &lt;em&gt;moment&lt;/em&gt; you met your 'Goddess'. Whatever happened to those two anyways? Didn't one join one of those radical minority groups, like the 'Animals for Ethical Treatment of Flora' or some such thing?&quot;&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Meril shook himself out of his daze. &quot;Yep, that's what happened!&quot; Meril said, ignoring the ultimate moral of what had happened to him and those females, as he continued onwards, trying to jump over the log Weevil was beneath, failing horribly.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Weevil looked at Meril meaningfully before carrying on. Weevil never pretended or tried to understand the furry little bugger, and didn't ever hope to. It was probably better that way, because he always had a sneaking feeling that if he ever knew half of the things Meril had done in his life, he'd probably never let the creepy bastard near him ever again.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Meril rubbed his head from the bump he had recieved from the log. Shaking it off like many things he had before, he grinned slyly at Weevil. &quot;So where are we going again?&quot; he asked, then sniffing the air, &quot;And what is that putrid stench?&quot;&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Weevil sniffed the air himself a few times, cautiously at first, and then deeper. &quot;I recognize that smell!&quot; he said, trailing off. Then suddenly Weevil stopped dead, and a spark of realization came over his face, and before Meril had a chance to ask any questions, Weevil was running faster than should really be possible for such a goofy-looking animal to move making a beeline for the smoke.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;&quot;Wait! Weevil, waai...&quot; Meril shouted, his eyes then catching the glimmer of a beautiful female passing by some berry bushes. He smiled at her, she smirked at him, her eyes looking to the smoke, her nose twitching. Meril shook himself out of that daze, looking to the smoke as well, then to the tracks of his duck-billed buddy. &quot;Oh, nuts and berries!&quot; Meril squeeked under his breath and ran to catch up with Weevil.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;By the time Meril caught up to Weevil, he was standing in the clearing of the Tree of Life. The tree's bark seemed entirely unscathed by the roaring flames, but all the greenery on the tree was burning, giving off a horrible stench. As they watched, a sparrow dropped out of the fire to join the other limp, motionless bodies on the ground. &quot;I hope Skippy's all right, at least,&quot; Weevil said.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;Meril stared at the bodies. &quot;Weevil! Weevil! I think,&quot; Meril started, his face turning green, his cheeks puffing out, and his body waved from side to side, &quot;I think I'm going to be...&quot; Before he finished his sentence, Meril fainted.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Weevil just let Meril drop to the ground, not even making an effort to catch him. &quot;Skippy? Skiiiiiiiippy?&quot;, he shouted. A few more animals had entered the clearing now, and most of them were able to keep themselves standing, unlike Meril. Weevil wandered closer towards the burning tree, hoping to see if Skippy was lying among the fallen. But he found nothing but some of the birds who lived upstairs from Skippy.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;A sleek auburn furred female squirrel ran right past Weevil, heading through the fire. &quot;Gigi! Gigi!&quot; She shouted up into the tree.&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;Meril suddenly sat bolt upright at the sound of the other squirrel's voice. This, of course, scared the nuts out of the chipmunk's cheeks who was right beside where Meril was lying.&lt;/dd&gt;
+  &lt;dt&gt;Katie&lt;/dt&gt;&lt;dd&gt;The female squirrel ran up the tree, to a fiery barrier ringed around the tree, stopping her from going any further. &quot;Gigi! Gigi pleeeeasee... where are you?&quot; She shouted up into the tree, hoping to get a reply, her eyes full of tears. &quot;GIGI!!&quot;&lt;/dd&gt;
+  &lt;dt&gt;Mak&lt;/dt&gt;&lt;dd&gt;As the female squirrel shouted, everyone heard &quot;Be quiet! I'm trying to get some shut-eye down here!&quot; Out from the second lowest quarter of the tree poked the head of Skippy, the squirrel who looked more bone than flesh. &quot;It took me three days to fall asleep, and I swear, the moment I do, someone starts yelling! Stop hollering and come up and &lt;u&gt;knock&lt;/u&gt; on the door!&quot;. And with that, he was gone.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;At this point we got bored and went on to discuss other things.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Apr 2004 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2004-04-07/improvised_story</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2004-04-07/improvised_story</guid>
+        
+        <category>katie</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
