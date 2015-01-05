@@ -5,9 +5,322 @@
     <description>Uniformed opinions, strongly held.</description>
     <link>http://mogigoma.com/blog/</link>
     <atom:link href="http://mogigoma.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 27 Sep 2014 20:13:31 -0500</pubDate>
-    <lastBuildDate>Sat, 27 Sep 2014 20:13:31 -0500</lastBuildDate>
+    <pubDate>Sun, 04 Jan 2015 20:50:06 -0600</pubDate>
+    <lastBuildDate>Sun, 04 Jan 2015 20:50:06 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Tranquil Turtle</title>
+        <description>&lt;p&gt;Every night when I put River to bed, I turn on her Tranquil Turtle, a little
+plush/plastic light projector and sound effect generator. It takes a press of
+one button to turn it on, and two presses of another button to turn on all the
+sounds. It has a total of six buttons. Tonight, I put her to bed and then
+realized five minutes later that I’d forgotten to turn on Tranquil Turtle. When
+I went in her room to do so, I found it already on and emitting light and sound
+as usual. River knows how to operate Tranquil Turtle, in complete darkness to
+boot!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Jan 2015 00:00:00 -0600</pubDate>
+        <link>http://mogigoma.com/blog/blog/2015-01-04/tranquil_turtle</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2015-01-04/tranquil_turtle</guid>
+        
+        <category>rkk</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Block Codes</title>
+        <description>&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;I am currently taking a graduate-level course at the University of Manitoba in
+the Computer Science department called Error-Correcting Codes. I am enjoying it
+a great deal, and find its content very interesting. To help myself better
+understand the topic content, I will be blogging about it here.&lt;/p&gt;
+
+&lt;p&gt;An error-correcting code is a method of encoding data such that certain errors
+in the transmission of that data can be corrected by the receiver. In this post
+we will be starting with a very poor (non-error-correcting) code and building
+our way towards a code which can efficiently correct a single error. Along the
+way we will introduce a number of properties of error-correcting codes which we
+can use to compare the codes.&lt;/p&gt;
+
+&lt;h1 id=&quot;non-linear-block-codes&quot;&gt;Non-Linear Block Codes&lt;/h1&gt;
+
+&lt;h2 id=&quot;csub0sub-null-code&quot;&gt;C&lt;sub&gt;0&lt;/sub&gt;: Null Code&lt;/h2&gt;
+
+&lt;p&gt;The first code we’re going to discuss is what I’m going to call the &lt;em&gt;null code&lt;/em&gt;,
+C&lt;sub&gt;0&lt;/sub&gt;.  where the input is the same as the output. While the null code
+is trivial, it allows us to introduce some properties of codes in the simplest
+case.&lt;/p&gt;
+
+&lt;p&gt;To give a formal definition of C&lt;sub&gt;0&lt;/sub&gt;, it is a non-linear binary (base 2)
+code that converts between messages of 2 bits and codewords of 2 bits. A block
+code can be defined by listing all pairs of messages and codewords, and
+C&lt;sub&gt;0&lt;/sub&gt;’s list is:&lt;/p&gt;
+
+&lt;table class=&quot;table table-condensed table-striped&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;Message&lt;/td&gt;
+	  &lt;td&gt;Codeword&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;00&lt;/td&gt;
+	  &lt;td&gt;00&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;01&lt;/td&gt;
+	  &lt;td&gt;01&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;10&lt;/td&gt;
+	  &lt;td&gt;10&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;11&lt;/td&gt;
+	  &lt;td&gt;11&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;We use four variables to define a code, they are:&lt;/p&gt;
+
+&lt;dl class=&quot;dl-horizontal&quot;&gt;
+  &lt;dt&gt;q&lt;/dt&gt;
+  &lt;dd&gt;Number of symbols in the code's alphabet.&lt;/dd&gt;
+  &lt;dt&gt;n&lt;/dt&gt;
+  &lt;dd&gt;Number of elements in a codeword.&lt;/dd&gt;
+  &lt;dt&gt;k&lt;/dt&gt;
+  &lt;dd&gt;Number of elements in a message.&lt;/dd&gt;
+  &lt;dt&gt;d&lt;/dt&gt;
+  &lt;dd&gt;Minimum Hamming distance between any two distinct codewords.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Our C&lt;sub&gt;0&lt;/sub&gt; code is defined as [n,k,d]&lt;sub&gt;q&lt;/sub&gt; =
+[2,2,1]&lt;sub&gt;2&lt;/sub&gt;. The n, k, and q come from the previous paragraph, but the
+distance property of the code requires a little more explanation.&lt;/p&gt;
+
+&lt;p&gt;The Hamming distance of two codewords u and v is the number of elements in which
+u and v differ. For example, d(u,v) = d(00,11) = 2, while d(00,01) = 1, and
+d(00,00) = 0. From these examples we can see that the minimum distance between
+any two &lt;em&gt;distinct&lt;/em&gt; codewords is 1, which is why C&lt;sub&gt;0&lt;/sub&gt; has d = 1.&lt;/p&gt;
+
+&lt;p&gt;The final property of a code that we’ll need for our comparisons is the rate of
+a code, which represents the ratio of useful to redundant data that occurs in
+our codewords. The rate of a code is defined as R = k/n, which for our code is R
+= 2/2 = 1. No code other than C&lt;sub&gt;0&lt;/sub&gt; can achieve this rate, as all other
+codes have n &amp;gt; k and add some redundancy to the message.&lt;/p&gt;
+
+&lt;h2 id=&quot;csub1sub-parity-code&quot;&gt;C&lt;sub&gt;1&lt;/sub&gt;: Parity Code&lt;/h2&gt;
+
+&lt;p&gt;To improve upon C&lt;sub&gt;1&lt;/sub&gt; we will add an extra bit to the codewords to
+create C&lt;sub&gt;2&lt;/sub&gt; which is defined as [3,2,2]&lt;sub&gt;2&lt;/sub&gt;. This technique of
+adding a new element to all the codewords is called &lt;em&gt;augmenting&lt;/em&gt; a code.&lt;/p&gt;
+
+&lt;p&gt;Before we address the value of the extra element we’ve added, we need to have a
+new property: weight. The weight of a codeword is defined as the number of
+non-zero elements in the codeword. Weight can also be thought of in terms of
+distance from a codeword consisting of all zeroes: d(0,u) = wt(u).&lt;/p&gt;
+
+&lt;p&gt;The extra bit that we added to each codeword will be set such that the weight of
+every codeword is even. The extra bit can therefore be thought of as a parity
+bit maintaining even parity. This choice of value for our extra bit guarantees
+that the distance of the code will increase. Our table for C&lt;sub&gt;1&lt;/sub&gt; is:&lt;/p&gt;
+
+&lt;table class=&quot;table table-condensed table-striped&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;Message&lt;/td&gt;
+	  &lt;td&gt;Codeword&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;00&lt;/td&gt;
+	  &lt;td&gt;000&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;01&lt;/td&gt;
+	  &lt;td&gt;011&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;10&lt;/td&gt;
+	  &lt;td&gt;101&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;11&lt;/td&gt;
+	  &lt;td&gt;110&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In C&lt;sub&gt;0&lt;/sub&gt;, every possible two-bit value was a codeword, so we didn’t talk
+about the decoding process. In C&lt;sub&gt;1&lt;/sub&gt; however, only half the space of
+3-bit values are codewords. So what happens if there is a single error in the
+transmission of a codeword, and the value received is 010? Well, there are three
+possibilities:&lt;/p&gt;
+
+&lt;table class=&quot;table table-condensed table-striped&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;Received Codeword&lt;/td&gt;
+	  &lt;td&gt;Error&lt;/td&gt;
+	  &lt;td&gt;Message&lt;/td&gt;
+	  &lt;td&gt;Sent Codeword&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;010&lt;/td&gt;
+	  &lt;td&gt;001&lt;/td&gt;
+	  &lt;td&gt;011&lt;/td&gt;
+	  &lt;td&gt;01&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;010&lt;/td&gt;
+	  &lt;td&gt;010&lt;/td&gt;
+	  &lt;td&gt;000&lt;/td&gt;
+	  &lt;td&gt;00&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;010&lt;/td&gt;
+	  &lt;td&gt;100&lt;/td&gt;
+	  &lt;td&gt;110&lt;/td&gt;
+	  &lt;td&gt;11&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The problem here is that we can detect that a single error has occurred, but we
+do not know which bit has an error, or how to correct it, as there are three
+possibilities. If we were to implement &lt;em&gt;complete decoding&lt;/em&gt; we would simply guess
+at random from the set of all equally-likely choices and keep on going. If we
+were to implement &lt;em&gt;incomplete decoding&lt;/em&gt; we would fail, and if possible ask the
+sender to resend.&lt;/p&gt;
+
+&lt;p&gt;The rate of C&lt;sub&gt;1&lt;/sub&gt; is R = k/n = 2/3 = ~67%. This rate is lower than that
+of C&lt;sub&gt;0&lt;/sub&gt;, but it can detect a single error in each codeword.&lt;/p&gt;
+
+&lt;h2 id=&quot;csub2sub-2-repetition-code&quot;&gt;C&lt;sub&gt;2&lt;/sub&gt;: 2-Repetition Code&lt;/h2&gt;
+
+&lt;p&gt;For C&lt;sub&gt;2&lt;/sub&gt;, we shall send every bit twice. There are two ways to do this,
+sending each bit twice (01 becomes 0011) and sending each message twice (01
+becomes 0101). We shall use the former style. C&lt;sub&gt;2&lt;/sub&gt; is defined as a
+[4,2,2]&lt;sub&gt;2&lt;/sub&gt; code. Its table is:&lt;/p&gt;
+
+&lt;table class=&quot;table table-condensed table-striped&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;Message&lt;/td&gt;
+	  &lt;td&gt;Codeword&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;00&lt;/td&gt;
+	  &lt;td&gt;0000&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;01&lt;/td&gt;
+	  &lt;td&gt;0011&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;10&lt;/td&gt;
+	  &lt;td&gt;1100&lt;/td&gt;
+	&lt;/tr&gt;
+    &lt;tr&gt;
+	  &lt;td&gt;11&lt;/td&gt;
+	  &lt;td&gt;1111&lt;/td&gt;
+	&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;What does this doubling-up of bits buy us? It allows us to detect not only
+single errors within a codeword, but it can also detect which bit in a codeword
+is erroneous. For example, if the value 0111 is received, and a single error is
+assumed to have occurred, then we know the first two bits of the contains an
+error. Unfortunately we still do not have any information that will allow us to
+determine if the first two elements of the word should be 0 or 1.&lt;/p&gt;
+
+&lt;p&gt;The rate of C&lt;sub&gt;2&lt;/sub&gt; is R = k/n = 4/2 = 50%, which is our worst rate so
+far.&lt;/p&gt;
+
+&lt;h2 id=&quot;csub3sub-3-repetition-code&quot;&gt;C&lt;sub&gt;3&lt;/sub&gt;: 3-Repetition Code&lt;/h2&gt;
+
+&lt;h2 id=&quot;csub4sub-4-repetition-code&quot;&gt;C&lt;sub&gt;4&lt;/sub&gt;: 4-Repetition Code&lt;/h2&gt;
+
+&lt;h2 id=&quot;csub5sub-5-repetition-code&quot;&gt;C&lt;sub&gt;5&lt;/sub&gt;: 5-Repetition Code&lt;/h2&gt;
+
+&lt;h2 id=&quot;csubgsub-a-good-code&quot;&gt;C&lt;sub&gt;g&lt;/sub&gt;: A Good Code&lt;/h2&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;h1 id=&quot;next-time&quot;&gt;Next Time&lt;/h1&gt;
+
+&lt;p&gt;We are going to define a new block code, called that because it takes
+statically-sized input blocks and produces larger statically-sized output
+blocks. Specifically, we are creating a non-linear binary (base 2) block code
+that converts between 2-bit messages and 3-bit codewords. We denote this by
+[n,k]&lt;sub&gt;q&lt;/sub&gt; which in our case is [3,2]&lt;sub&gt;2&lt;/sub&gt;. Version 1 or our code,
+C&lt;sub&gt;1&lt;/sub&gt;, is defined as follows:&lt;/p&gt;
+
+&lt;p&gt;If you stare at the table for C&lt;sub&gt;1&lt;/sub&gt; long enough, you’ll realize that
+what the codewords are representing is the message with a parity bit to maintain
+even parity. What properties does C&lt;sub&gt;1&lt;/sub&gt; have? Well, if there’s an error
+in any single bit, the parity of the codeword will move from odd to even. We can
+think of the codewords as representing discrete points in n-dimensional
+space. There are q&lt;sup&gt;n&lt;/sup&gt;=2&lt;sup&gt;3&lt;/sup&gt;=8 points that exist in that space,
+and exactly half of them are in our table. If a single error occurs during
+transmission, the received word will not be a codeword, and so we know that an
+error has occurred. Sadly we cannot correct this error, as we don’t know which
+bit got flipped. For example, if we receive the word 001, was the codeword sent
+000, 011, or 101?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2014-10-27/block_codes</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2014-10-27/block_codes</guid>
+        
+        <category>error-correcting-codes</category>
+        
+        <category>msc</category>
+        
+        <category>u-of-m</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Right Tool for the Job</title>
+        <description>&lt;p&gt;I spent this weekend getting as much cleaning, organizing, and repairing of my
+house done as possible. Before I owned a house, I never realized how much effort
+goes into maintaining one. Last winter our outside door kept freezing to the
+door frame, which is especially bad since we only have one door on our house. So
+I decided to replace the weather stripping which insulates the door in its frame
+in the hopes of preventing similar issues in the coming winter.&lt;/p&gt;
+
+&lt;p&gt;Replacing weather stripping is seemingly easy, there’s many articles and YouTube
+videos on the topic. I went out, bought the replacement weather stripping, and
+then had a great deal of trouble removing the old weather stripping. It turns
+out that finishing nails had been driven across the channel that the weather
+stripping fits into, to secure it in place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/IMG_20140928_113551.jpg&quot; alt=&quot;Finishing nails in the weather stripping channel.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/IMG_20140928_113754.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/img/IMG_20140928_113835.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 Sep 2014 00:00:00 -0500</pubDate>
+        <link>http://mogigoma.com/blog/blog/2014-09-28/right_tool_for_the_job</link>
+        <guid isPermaLink="true">http://mogigoma.com/blog/blog/2014-09-28/right_tool_for_the_job</guid>
+        
+        <category>environment</category>
+        
+        
+      </item>
     
       <item>
         <title>Today is not Yesterday</title>
